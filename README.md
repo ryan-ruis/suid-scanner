@@ -23,7 +23,7 @@ No Linux, o bit SUID (*Set User ID*) pode fazer um programa ser executado com o 
 
 O scanner organiza os resultados por níveis de **risco potencial**, usando um catálogo local de nomes de programas conhecidos e recomendações iniciais. A classificação é apenas uma heurística para ajudar a priorizar a análise manual — não é uma confirmação de exploração ou vulnerabilidade.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - 🔍 Procura arquivos regulares com o bit SUID ativado usando o utilitário `find`.
 - 🛡️ Exibe permissões, caminho, proprietário e grupo do arquivo.
